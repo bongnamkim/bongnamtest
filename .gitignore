@@ -1,0 +1,4 @@
+git config --global color.ui true
+git config --global user.name "bongnamkim"
+git config --global user.email "cecil@dot-mill.com"
+ssh-keygen -t rsa -C "cecil@dot-mill.com"
